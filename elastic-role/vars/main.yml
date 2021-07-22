@@ -1,0 +1,5 @@
+---
+# vars file for roles
+---
+  elastic_version: "7.13.4"
+  elastic_home: "/opt/elastic/{{ elastic_version }}"
